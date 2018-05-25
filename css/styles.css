@@ -1,0 +1,20 @@
+li>a.active-page{
+    background: #337AB7;
+}
+
+.active-page{
+    color: white;
+}
+
+li>a.active-page:hover{
+    background-color: #111BBA;
+    color: wheat;
+    cursor: none;
+}
+
+div.post-title{
+    padding-top: 20px;
+}
+div.post-title>h1{
+    display: inline;
+}
